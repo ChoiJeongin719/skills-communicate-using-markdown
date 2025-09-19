@@ -12,3 +12,4 @@
 
 Everyone let's be friend
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
